@@ -1,2 +1,2 @@
-# parallel-55
-Final solution
+# CUP IT 2023
+Решение команды Параллель 55
